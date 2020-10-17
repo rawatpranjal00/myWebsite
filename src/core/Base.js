@@ -34,7 +34,7 @@ const Base = ({
       <div className="container-fluid text-white text-center py-3">
         <h4>If you got any questions, feel free to reach out!</h4>
         <button className="btn btn-danger btn-lg">
-        <a className="btn btn-lg btn-danger" href="mailto:someone@example.com">Mail Us</a>
+        <a className="btn btn-lg btn-danger" href="mailto:x1superbikes@gmail.com">Mail Us</a>
         </button>
       </div>
       <div className="container">
